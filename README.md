@@ -6,7 +6,7 @@
 
 ### About Me
 - **University:** University of Virginia (CS+Math)
-- **Currently Building:** [endomrkts 🛍️](https://endomrkts.com) with [@tylertms](https://github.com/tylertms), [@sugogi](https://github.com/sugogi), and [@antonylin0428](https://github.com/antonylin0428)  
+- **Currently Building:** [endomrkts](https://endomrkts.com) with [@tylertms](https://github.com/tylertms), [@sugogi](https://github.com/sugogi), and [@antonylin0428](https://github.com/antonylin0428)  
 - **Interests:** Startups/VC, AI/ML, Quantitative Research, Algorithmic Trading
 - **Website:** [jaysenkang.com](https://jaysenkang.com)
 
