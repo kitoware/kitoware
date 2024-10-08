@@ -5,14 +5,14 @@
 ---
 
 ### About Me
-- **University:** University of Virginia
+- **University:** University of Virginia (CS+Math)
 - **Current Project(s):** [endomrkts](https://endomrkts.com) 🛍️ 
 - **Interests:** Software Development, AI/ML, Quantitative Research, Algorithmic Trading
 - **Website:** [jaysenkang.com](https://jaysenkang.com)
 
 ---
 
-### Fun Fact:
-I like rice 🍚
+### Song Recs:
+- Childish Gambino - **Steps Beach**: https://open.spotify.com/track/3SGIsVsZuz1hyP3ZdCRqKo
 
 
