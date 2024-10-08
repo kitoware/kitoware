@@ -6,9 +6,9 @@
 
 ### About Me
 - **University:** University of Virginia
-- **Current Project(s):** [endomrkts.com](#) 🛍️ 
+- **Current Project(s):** [endomrkts](endomrkts.com) 🛍️ 
 - **Interests:** Software Development, AI/ML, Quantitative Research, Algorithmic Trading
-- **Website:** [jaysenkang.com](#)
+- **Website:** [jaysenkang.com](jaysenkang.com)
 
 ---
 
