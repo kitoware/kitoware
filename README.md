@@ -14,6 +14,8 @@
 
 ### Song Recs:
 - Childish Gambino - [**Steps Beach**](https://open.spotify.com/track/3SGIsVsZuz1hyP3ZdCRqKo) 
-- Gold Brother - [**Part of Me**](https://open.spotify.com/album/7ccNuUCrN5VLOaKBXzU3xN) 
-
+- Gold Brother - [**Part of Me**](https://open.spotify.com/album/7ccNuUCrN5VLOaKBXzU3xN)
+- Lana Del Ray - [**Diet Mountain Dew**](https://open.spotify.com/track/20Dr6PsU4KweNgqDw7Vo0I)
+- Noah Kahan - [**Call Your Mom**](https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j)
+- Daniel Caesar - [**Ochos Rios**](https://open.spotify.com/track/5XUuMp2i5ojqcDOSusChqL)
 
