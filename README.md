@@ -12,7 +12,7 @@
 
 ---
 
-### Song Recs:
+### Music:
 - Childish Gambino - [**Steps Beach**](https://open.spotify.com/track/3SGIsVsZuz1hyP3ZdCRqKo) 
 - Gold Brother - [**Part of Me**](https://open.spotify.com/album/7ccNuUCrN5VLOaKBXzU3xN)
 - Lana Del Ray - [**Diet Mountain Dew**](https://open.spotify.com/track/20Dr6PsU4KweNgqDw7Vo0I)
