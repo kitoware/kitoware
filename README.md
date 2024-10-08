@@ -21,5 +21,6 @@
 - J. Cole - [**Kenny Lofton**](https://open.spotify.com/episode/4kWawDEuB0lf8frYfXH9tJ)
 - Laufey - [**Falling Behind**](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj)
 - Klaus Weiss - [**Swingin' Five**](https://open.spotify.com/track/3bdKuTs647tOUMTlQeHVVt)
-- Antonín Dvořák - [**New World Symphony (4th mvmnt)**](https://open.spotify.com/track/7rPv9wkTzRD2DvwKWIJKmH)
+- Still Woozy - [**Anyone but You**](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav)
+- d4vd - [**Don't Forget About Me**](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j)
 
