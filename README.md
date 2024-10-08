@@ -1,16 +1,25 @@
-## Hi there 👋
+![https://64.media.tumblr.com/31a4fddc18db83a84503e1531df3903f/tumblr_pdned1CyHM1xdue7io1_500.gif](#)
 
-<!--
-**kitoware/kitoware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jaysen! 👋!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- **University:** University of Virginia
+- **Current Project(s):** endomrkts 🛍️
+- **Interests:** Software Development, AI/ML, Quantitative Research, Algorithmic Trading
+- **Website:** [jaysenkang.com](#)
+
+---
+
+### Fun Fact:
+I like rice 🍚
+
+---
+
+### Gif Section:
+
+
+---
+
+Feel free to reach out to me!
