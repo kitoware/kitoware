@@ -7,7 +7,7 @@
 ### About Me
 - **University:** University of Virginia (CS+Math)
 - **Current Project(s):** [endomrkts](https://endomrkts.com) 🛍️ 
-- **Interests:** Software Development, AI/ML, Quantitative Research, Algorithmic Trading
+- **Interests:** Startups/VC, AI/ML, Quantitative Research, Algorithmic Trading
 - **Website:** [jaysenkang.com](https://jaysenkang.com)
 
 ---
