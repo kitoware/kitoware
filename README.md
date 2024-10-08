@@ -15,11 +15,4 @@
 ### Fun Fact:
 I like rice 🍚
 
----
 
-### Gif Section:
-
-
----
-
-Feel free to reach out to me!
