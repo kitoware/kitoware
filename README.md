@@ -21,5 +21,5 @@
 - J. Cole - [**Kenny Lofton**](https://open.spotify.com/episode/4kWawDEuB0lf8frYfXH9tJ)
 - Laufey - [**Falling Behind**](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj)
 - Klaus Weiss - [**Swingin' Five**](https://open.spotify.com/track/3bdKuTs647tOUMTlQeHVVt)
-- Antonín Dvořák - [**Symphony No. 9 in E minor, Op. 95 "From the New World": 4.allegro con fuoco**](https://open.spotify.com/track/7rPv9wkTzRD2DvwKWIJKmH)
+- Antonín Dvořák - [**New World Symphony (4th mvmnt)**](https://open.spotify.com/track/7rPv9wkTzRD2DvwKWIJKmH)
 
