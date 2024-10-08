@@ -18,4 +18,8 @@
 - Lana Del Ray - [**Diet Mountain Dew**](https://open.spotify.com/track/20Dr6PsU4KweNgqDw7Vo0I)
 - Noah Kahan - [**Call Your Mom**](https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j)
 - Daniel Caesar - [**Ochos Rios**](https://open.spotify.com/track/5XUuMp2i5ojqcDOSusChqL)
+- J. Cole - [**Kenny Lofton**](https://open.spotify.com/episode/4kWawDEuB0lf8frYfXH9tJ)
+- Laufey - [**Falling Behind**](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj)
+- Klaus Weiss - [**Swingin' Five**](https://open.spotify.com/track/3bdKuTs647tOUMTlQeHVVt)
+- Antonín Dvořák - [**Symphony No. 9 in E minor, Op. 95 "From the New World": 4.allegro con fuoco**](https://open.spotify.com/track/7rPv9wkTzRD2DvwKWIJKmH)
 
