@@ -1,15 +1,9 @@
-![Cool GIF](https://64.media.tumblr.com/31a4fddc18db83a84503e1531df3903f/tumblr_pdned1CyHM1xdue7io1_500.gif)
-
 # Hi, I'm Jaysen!
 
 ---
 
 ### About Me
 - **Education:** University of Virginia (CS+Math)
-- **Currently Building:**
-  - [endomrkts](https://endomrkts.com) – with [@tylertms](https://github.com/tylertms), [@sugogi](https://github.com/sugogi), and [@antonylin0428](https://github.com/antonylin0428)
-  - [SolveX](https://solvex.live) – with [@harivansh-afk](https://github.com/harivansh-afk)
-- **Interests:** Startups/VC, AI/ML, Quantitative Research, Algorithmic Trading
 - **Website:** [jaysenkang.com](https://jaysenkang.com)
 
 
